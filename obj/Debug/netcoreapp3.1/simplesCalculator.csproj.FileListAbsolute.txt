@@ -1,0 +1,13 @@
+C:\Users\abel\web\exercicios\c#\simplesCalculator\obj\Debug\netcoreapp3.1\simplesCalculator.csprojAssemblyReference.cache
+C:\Users\abel\web\exercicios\c#\simplesCalculator\obj\Debug\netcoreapp3.1\simplesCalculator.AssemblyInfoInputs.cache
+C:\Users\abel\web\exercicios\c#\simplesCalculator\obj\Debug\netcoreapp3.1\simplesCalculator.AssemblyInfo.cs
+C:\Users\abel\web\exercicios\c#\simplesCalculator\obj\Debug\netcoreapp3.1\simplesCalculator.csproj.CoreCompileInputs.cache
+C:\Users\abel\web\exercicios\c#\simplesCalculator\bin\Debug\netcoreapp3.1\simplesCalculator.exe
+C:\Users\abel\web\exercicios\c#\simplesCalculator\bin\Debug\netcoreapp3.1\simplesCalculator.deps.json
+C:\Users\abel\web\exercicios\c#\simplesCalculator\bin\Debug\netcoreapp3.1\simplesCalculator.runtimeconfig.json
+C:\Users\abel\web\exercicios\c#\simplesCalculator\bin\Debug\netcoreapp3.1\simplesCalculator.runtimeconfig.dev.json
+C:\Users\abel\web\exercicios\c#\simplesCalculator\bin\Debug\netcoreapp3.1\simplesCalculator.dll
+C:\Users\abel\web\exercicios\c#\simplesCalculator\bin\Debug\netcoreapp3.1\simplesCalculator.pdb
+C:\Users\abel\web\exercicios\c#\simplesCalculator\obj\Debug\netcoreapp3.1\simplesCalculator.dll
+C:\Users\abel\web\exercicios\c#\simplesCalculator\obj\Debug\netcoreapp3.1\simplesCalculator.pdb
+C:\Users\abel\web\exercicios\c#\simplesCalculator\obj\Debug\netcoreapp3.1\simplesCalculator.genruntimeconfig.cache
